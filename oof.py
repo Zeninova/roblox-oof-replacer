@@ -2,10 +2,10 @@ import os
 import shutil
 
 # Path to your Roblox Versions folder
-versions_path = r'C:\Users\Morgan\AppData\Local\Roblox\Versions'
+versions_path = r'[ENTER HERE]\AppData\Local\Roblox\Versions'
 
 # Path to your preferred ouch.ogg file in D:\Documents
-preferred_ouch_file = r'D:\Documents\ouch.ogg'
+preferred_ouch_file = r'[OUCH.OGG LOCATION HERE]'
 
 # Function to get the latest version folder that contains a 'sounds' folder
 def get_latest_version_folder_with_sounds():
